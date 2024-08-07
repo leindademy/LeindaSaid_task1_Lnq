@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeindaSaid_task1_Lnq", "LeindaSaid_task1_Lnq\LeindaSaid_task1_Lnq.csproj", "{40BFF12C-537D-4153-8C2C-48BAC72AF156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40BFF12C-537D-4153-8C2C-48BAC72AF156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BFF12C-537D-4153-8C2C-48BAC72AF156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BFF12C-537D-4153-8C2C-48BAC72AF156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BFF12C-537D-4153-8C2C-48BAC72AF156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C8858F4-EEAE-43E0-83AD-DC5AECDA0FF2}
+	EndGlobalSection
+EndGlobal
